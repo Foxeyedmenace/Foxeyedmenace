@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Foxeyedmenace
-- 👀 I’m interested in ...software devepolment 
+- 👀 I’m interested in ...software development 
 - 🌱 I’m currently learning ... Frontend Web design 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
